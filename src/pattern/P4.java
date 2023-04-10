@@ -1,7 +1,20 @@
 package pattern;
 
 import java.util.Scanner;
+/*
+Hello World
+H
+He
+Hel
+Hell
+Hello
 
+W
+Wo
+Wor
+Worl
+World
+ */
 public class P4 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -11,8 +24,7 @@ public class P4 {
 		for(int i=0;i<ar.length;i++) {
 			print(ar[i]);
 			System.out.println();
-			System.out.println("\033[H\033]2J");
-			System.out.flush();
+
 		}
 	}
 

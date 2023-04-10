@@ -2,13 +2,13 @@ package pattern;
 
 import java.util.Scanner;
 /*
-4444444
-4333334
-4322234
-4321234
-4322234
-4333334
-4444444
+4 4 4 4 4 4 4 
+4 3 3 3 3 3 4 
+4 3 2 2 2 3 4 
+4 3 2 1 2 3 4 
+4 3 2 2 2 3 4 
+4 3 3 3 3 3 4 
+4 4 4 4 4 4 4
  */
 public class P5 {
 	public static void main(String[] args) throws InterruptedException {
