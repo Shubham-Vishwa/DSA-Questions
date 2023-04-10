@@ -3,10 +3,10 @@ package pattern;
 import java.util.Scanner;
 
 /*
- * 1
- * 2 7
- * 3 6 8
- * 4 5 9 10
+ 1
+ 2 7
+ 3 6 8
+ 4 5 9 10
  */
 public class P1 {
 	public static void main(String[] args) {
